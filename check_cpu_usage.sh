@@ -20,3 +20,4 @@ echo "--- System Usage ---"
 get_cpu_usage
 get_memory_usage
 get_disk_usage
+

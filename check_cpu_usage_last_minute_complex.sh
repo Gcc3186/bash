@@ -30,3 +30,4 @@ interval=60
 get_cpu_usage $interval
 get_memory_usage $interval
 get_disk_usage
+
